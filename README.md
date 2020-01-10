@@ -1,5 +1,5 @@
 # 文档说明
-* 51复盘，集读书、旅行、健身于一体
+* jenkins + nginx + GitHub webhook+email自动化部署
 * 版本与作者
 
 |版本|日期|备注|作者|
