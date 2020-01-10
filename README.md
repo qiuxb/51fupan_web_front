@@ -1,5 +1,5 @@
 # 文档说明
-* jenkins + nginx + GitHub webhook+email自动化部署
+* jenkins + nginx + GitHub webhook自动化部署
 * 版本与作者
 
 |版本|日期|备注|作者|
